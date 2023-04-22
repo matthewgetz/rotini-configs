@@ -13,7 +13,6 @@
     "package.json",
     "LICENSE",
     "README.md",
-    "index",
     ".eslintrc.js",
     "tsconfig.json",
     "tsup.config.ts",
