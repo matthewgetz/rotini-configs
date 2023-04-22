@@ -25,11 +25,5 @@
     "types": [
       "vitest/globals"
     ]
-  },
-  "exclude": [
-    "node_modules"
-  ],
-  "include": [
-    ".eslintrc.js"
-  ]
+  }
 }
