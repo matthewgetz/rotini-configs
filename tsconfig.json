@@ -30,7 +30,7 @@
     "node_modules"
   ],
   "include": [
-    "index.js",
+    "index",
     ".eslintrc.js"
   ]
 }
