@@ -4,11 +4,11 @@ export default defineConfig({
   test: {
     clearMocks: true,
     coverage: {
+      100: true,
       all: true,
-      branches: 100,
-      functions: 100,
-      lines: 100,
-      statements: 100,
+      src: [
+        'src',
+      ],
     },
     exclude: [
       'build',
