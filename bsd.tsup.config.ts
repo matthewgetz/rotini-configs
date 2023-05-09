@@ -10,6 +10,7 @@ export default defineConfig({
   minifyIdentifiers: true,
   minifySyntax: true,
   minifyWhitespace: true,
+  noExternal: [ /(.*)/, ],
   outDir: './build',
   platform: 'node',
   target: 'node18',
