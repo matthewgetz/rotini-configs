@@ -16,7 +16,8 @@
     "README.md",
     ".eslintrc.js",
     "tsconfig.json",
-    "tsup.config.ts",
+    "bs.tsup.config.ts",
+    "bsd.tsup.config.ts",
     "vitest.config.ts"
   ],
   "keywords": [
