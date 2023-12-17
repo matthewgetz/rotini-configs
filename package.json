@@ -18,7 +18,7 @@
     "tsconfig.json",
     "bs.tsup.config.ts",
     "bsd.tsup.config.ts",
-    "vitest.config.ts"
+    "vitest.config.mts"
   ],
   "keywords": [
     "rotini",
@@ -26,14 +26,14 @@
     "framework"
   ],
   "dependencies": {
-    "@types/node": "*",
-    "@typescript-eslint/eslint-plugin": "*",
-    "@typescript-eslint/parser": "*",
-    "@vitest/coverage-c8": "*",
-    "eslint": "*",
-    "npm-check-updates": "*",
-    "tsup": "*",
-    "typescript": "*",
-    "vitest": "*"
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/eslint-plugin": "^6.14.0",
+    "@typescript-eslint/parser": "^6.14.0",
+    "@vitest/coverage-v8": "^1.0.4",
+    "eslint": "^8.56.0",
+    "npm-check-updates": "^16.14.12",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3",
+    "vitest": "^1.0.4"
   }
 }
